@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Loxodon.Log.Log4Net.Appender.UnityDebugAppender" preserve="all"/>
+    <type fullname="Loxodon.Log.Log4Net.Appender.UnityFileAppender" preserve="all"/>
+    <type fullname="Loxodon.Log.Log4Net.Appender.UnityRollingFileAppender" preserve="all"/>
+    <type fullname="Loxodon.Log.Log4Net.Appender.UnityUdpRemotingAppender" preserve="all"/>
+  </assembly>
+</linker>

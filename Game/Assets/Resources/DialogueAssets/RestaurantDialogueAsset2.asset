@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: RestaurantDialogueAsset2
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 1
+    Content: "\u4F60\u4EEC\u597D\uFF0C\u4F60\u4EEC\u60F3\u5403\u4E9B\u4EC0\u4E48\uFF1F\uFF08Hello,
+      what would you like\uFF1F\uFF09"
+    AudioClip: {fileID: 8300000, guid: 480d0879a34d06c44aad25285b06cbca, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u6211\u60F3\u70B9\u4E00\u4EFD\u725B\u6392 \uFF08Can I get a steak?\uFF09"
+    AudioClip: {fileID: 8300000, guid: d2969fd764eadbf41a34b57c5072906f, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 2
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6211\u60F3\u70B9\u7092\u996D"
+      AudioClip: {fileID: 8300000, guid: 437ffc85982e7c94d9adc4ca87d0258d, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u751F\u65E5\u5FEB\u4E50"
+      AudioClip: {fileID: 8300000, guid: 8e786653b6c33824fb78aed9cb41a8a8, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u53EBJames"
+      AudioClip: {fileID: 8300000, guid: 1ab50b984153a614ca009bf1d545560a, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u957F\u5F97\u771F\u597D\u770B"
+      AudioClip: {fileID: 8300000, guid: 098945ee8c72f5a4abac97973b2af04c, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6EDA"
+      AudioClip: {fileID: 8300000, guid: f74ecf8305a40624f925b8f2e19a4a02, type: 3}
+  - Index: 3
+    IsSelf: 0
+    IsThirdPerson: 1
+    Content: "\u597D\u7684\u3002\u8BF7\u95EE\u8FD8\u8981\u4EC0\u4E48\u559D\u7684\u5417\uFF1F\uFF08Okay\uFF0CWhat
+      would you like to drink?\uFF09"
+    AudioClip: {fileID: 0}
+    IsOption: 0
+    Options: []
+  - Index: 4
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u53EF\u4E50 \uFF08Coke\uFF09"
+    AudioClip: {fileID: 8300000, guid: eee429e40fa94704e8f2d2b4f20a012c, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 5
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6A59\u6C41"
+      AudioClip: {fileID: 8300000, guid: 269345c7dea3b81419129875e3ecc36d, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u5403\u9971\u4E86"
+      AudioClip: {fileID: 8300000, guid: e5e952fe52976384cafd76f17a9f6d5a, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u65E9\u4E0A\u597D"
+      AudioClip: {fileID: 8300000, guid: 5aa6f07bacaf7de49acc713ad99e0ac9, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u8981\u559D"
+      AudioClip: {fileID: 8300000, guid: 56d0852f0c73f73429739bdd697e130e, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8C22\u8C22"
+      AudioClip: {fileID: 8300000, guid: 30ac287a1a1f8044a9a084d7b2291321, type: 3}

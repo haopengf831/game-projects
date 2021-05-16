@@ -1,0 +1,5 @@
+﻿编号,用户类型,场景id,场景世界坐标,主角坐标
+Id,UserType,SceneId,SceneWorldPosition,PersonWorldPosition
+int,byte,int,Vector3,Vector3
+1000,1,10000,"(0,0,0)","(0,0,1)"
+2000,2,20000,"(0,0,0)","(0,0,1)"

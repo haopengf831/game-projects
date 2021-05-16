@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: LibraryDialogueAsset1
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "Hi James! \u5F88\u9AD8\u5174\u518D\u89C1\u5230\u4F60(Hi James! Nice
+      to see you again) "
+    AudioClip: {fileID: 8300000, guid: dc655801d966e9d428f910d144846454, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u6211\u4E5F\u5F88\u9AD8\u5174\u518D\u89C1\u5230\u4F60(Nice to see you
+      again)"
+    AudioClip: {fileID: 8300000, guid: 50733ddd331b9634cb54e42094457597, type: 3}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u65E9\u4E0A\u597D"
+      AudioClip: {fileID: 8300000, guid: f5e1118c8d7a4604b890d7e1e0a553bc, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4E0B\u5348\u597D"
+      AudioClip: {fileID: 8300000, guid: cf042b62c0d7a9b4fbe636d4f4c58b03, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u665A\u4E0A\u597D"
+      AudioClip: {fileID: 8300000, guid: 12ecf95c1563a8f4d908e8a1c07a9c92, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8FD9\u4E2A\u591A\u5C11\u94B1"
+      AudioClip: {fileID: 8300000, guid: 51d21fe2b3294d54781ce1de2c214990, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u518D\u89C1"
+      AudioClip: {fileID: 0}
+  - Index: 2
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u65E9\u4E0A\u597D\uFF0C\u4F60\u73B0\u5728\u8981\u53BB\u54EA\u91CC\uFF1F(Good
+      morning, where are you going right now?)"
+    AudioClip: {fileID: 8300000, guid: 82bb03677f407d14f82be1e143a9fe18, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 3
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u6211\u60F3\u53BB\u4E70\u4E00\u4E9B\u672C\u5B50\u548C\u7B14\uFF0C\u4F46\u6211\u4E0D\u77E5\u9053\u4E66\u5E97\u5728\u54EA\u91CC(I
+      want to get some pens and notebooks, but I don't know where the bookstore is)"
+    AudioClip: {fileID: 8300000, guid: 238ecebe344be064cb1fe8f1436e9c9b, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 4
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u4E66\u5E97\u5728\u54EA\u91CC\uFF1F"
+      AudioClip: {fileID: 8300000, guid: 7d34d4ff254e51f41ad1b47b1e1ae8ec, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8FD9\u4E2A\u591A\u5C11\u94B1\uFF1F"
+      AudioClip: {fileID: 8300000, guid: 51d21fe2b3294d54781ce1de2c214990, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u559C\u6B22\u7BEE\u7403"
+      AudioClip: {fileID: 8300000, guid: 8465b32069e89354eb4224da6c210e92, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u5395\u6240\u5728\u54EA\u91CC\uFF1F"
+      AudioClip: {fileID: 8300000, guid: eb0486ff77f4db841a020612ec257008, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u559C\u6B22\u4F60"
+      AudioClip: {fileID: 8300000, guid: 25a04f2e9fd13344c98dbbb4991daf32, type: 3}
+  - Index: 5
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u5F80\u524D\u8D70\u5341\u7C73\u518D\u5DE6\u62D0\u5C31\u5230\u4E86(Walk
+      ten meters forward and turn left) "
+    AudioClip: {fileID: 8300000, guid: c640d2018a580b7409cf3fdfdbf27c87, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 6
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u8C22\u8C22\uFF08Thank you)"
+    AudioClip: {fileID: 8300000, guid: cf32b509ed597094a98b3ff7b7d00bb2, type: 3}
+    IsOption: 0
+    Options: []

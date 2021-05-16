@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71b5a3b5b8bc78439dbb1d89e63ecd2, type: 3}
+  m_Name: RestaurantVocabularyAsset
+  m_EditorClassIdentifier: 
+  Words:
+  - ChineseWord: "\u9910\u5385"
+    EnglishWord: restaurant
+    AudioClip: {fileID: 8300000, guid: f9ed224caa71162498cd5c8aad2e0821, type: 3}
+  - ChineseWord: "\u83DC\u5355"
+    EnglishWord: menu
+    AudioClip: {fileID: 8300000, guid: 6c26ef7c12b82de4ea5c4e6e68689a41, type: 3}
+  - ChineseWord: "\u98DF\u7269"
+    EnglishWord: food
+    AudioClip: {fileID: 8300000, guid: 2d967a1fc8aad7e489c419feaae3ed47, type: 3}
+  - ChineseWord: "\u751F\u65E5\u5FEB\u4E50"
+    EnglishWord: Happy birthday!
+    AudioClip: {fileID: 8300000, guid: 48d1ac22a35bf004fa9a949ca3e3f961, type: 3}
+  - ChineseWord: "\u4F60\u4EEC\u60F3\u5403\u4E9B\u4EC0\u4E48?"
+    EnglishWord: "Hello, what would you like\uFF1F"
+    AudioClip: {fileID: 8300000, guid: 480d0879a34d06c44aad25285b06cbca, type: 3}
+  - ChineseWord: "\u6211\u60F3\u70B9XXX"
+    EnglishWord: I'd like to order XXX
+    AudioClip: {fileID: 8300000, guid: 3d030a31f2ae06741b984b847845aee9, type: 3}
+  - ChineseWord: "\u6211\u8DDFXXX\u4E00\u6837"
+    EnglishWord: Same to XXX
+    AudioClip: {fileID: 8300000, guid: 36bf9140a36c55d40875e7b94b3807dd, type: 3}
+  - ChineseWord: "\u4F60\u60F3\u559D\u70B9\u4EC0\u4E48?"
+    EnglishWord: "What would you like to drink\uFF1F"
+    AudioClip: {fileID: 8300000, guid: 272d0b9d28f218244a1cd96e315f74bc, type: 3}
+  - ChineseWord: "\u4F60\u89C9\u5F97\u8FD9\u5BB6\u5E97\u5473\u9053\u5982\u4F55?"
+    EnglishWord: How do you like the restaurant?
+    AudioClip: {fileID: 8300000, guid: 19dfc5e1fe1b15f439e690361197d3f8, type: 3}
+  - ChineseWord: "\u6211\u5403\u9971\u4E86"
+    EnglishWord: I'm full
+    AudioClip: {fileID: 8300000, guid: 12848d23e1f0a804795b9a2461b6d28c, type: 3}
+  - ChineseWord: "\u8C22\u8C22"
+    EnglishWord: Thank you
+    AudioClip: {fileID: 8300000, guid: 437643b94cacf7849a769faaf7c092c8, type: 3}
+  - ChineseWord: "\u6211\u8981\u559D"
+    EnglishWord: I want to drink
+    AudioClip: {fileID: 8300000, guid: 8c9b2f20527ba3045b9cd7eee66ca045, type: 3}
+  - ChineseWord: "\u4E70\u5355"
+    EnglishWord: check
+    AudioClip: {fileID: 8300000, guid: d4d3f5145d35269489fb2306adc89495, type: 3}
+  - ChineseWord: "\u6211\u997F\u4E86"
+    EnglishWord: I am hungry
+    AudioClip: {fileID: 8300000, guid: e0306ca46b9a7a540aa3391ed436c5e7, type: 3}
+  - ChineseWord: "\u771F\u597D\u5403"
+    EnglishWord: "It\u2019s delicious"
+    AudioClip: {fileID: 8300000, guid: 5902b51a0120c524eb28a3ac8bae2c36, type: 3}
+  - ChineseWord: "\u771F\u96BE\u5403"
+    EnglishWord: "it\u2019s awful"
+    AudioClip: {fileID: 8300000, guid: b968f84230737c24f97fbd77e1d0c2a0, type: 3}
+  - ChineseWord: "\u7092\u996D"
+    EnglishWord: Fried rice
+    AudioClip: {fileID: 8300000, guid: faf2b3965378a2546a0cef20567b03b9, type: 3}
+  - ChineseWord: "\u6C34"
+    EnglishWord: water
+    AudioClip: {fileID: 8300000, guid: cdcf2ab9de4d93a4d97c74e8f3ac438c, type: 3}
+  - ChineseWord: "\u6A59\u6C41"
+    EnglishWord: orange juice
+    AudioClip: {fileID: 8300000, guid: 7ba897887ffecc546bc5a7750776be54, type: 3}
+  - ChineseWord: "\u8BF7"
+    EnglishWord: Please
+    AudioClip: {fileID: 8300000, guid: f0da1f23daec11c40acf16259ea8ea7e, type: 3}

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shader Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Shader Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c4bb8dabee62e043bcaaffbbb164bb5
+  m_SerializeEntries:
+  - m_GUID: 0bedcb26456f2ca409c6a23f2718da3a
+    m_Address: PlanetRingShader
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 113682534962c2f4696f750c84ecf0c8
+    m_Address: MKToonFreeOutlineOnly
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1f10aceb255aa1b4c98e2868e2cd3742
+    m_Address: OutLine3
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 292abd393eeb17842ac9cc37977c3e97
+    m_Address: OutLine2
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 29792bc134c5f2143b17369a8fc01431
+    m_Address: WDShader_Grey
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 31f949d2f9d31c944a1973294462d948
+    m_Address: MaskShader
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3597f61600ee3204b870ce980a4fa71d
+    m_Address: Blur_Low
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4fa822a2140029f478072cd9eb680822
+    m_Address: Blur_High
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 543a72c43ae674441b36c43b80402166
+    m_Address: PlanetShaderHi
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6c3690706a9f72b4bbc755fd323f1107
+    m_Address: Overlay
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e3d8f14f97994f4baea02c36d2a967a
+    m_Address: OutLine1
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8baca54962328ac46a382f4ff1830d1a
+    m_Address: MKToonFreeMobile
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 94fa8f02f7080a346b7907b984b21005
+    m_Address: OutLighting
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 97fe7c2fba759b049821ea7f87dc6a2d
+    m_Address: SurfTexture
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9c6ece3d5ef8bb84db19471daaf6c788
+    m_Address: MKToonFree
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c23d7c281bacaaf4e9d02dd09c0f6654
+    m_Address: Additive
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 496ce2a3a30e41347b4b4229fef36ec1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 938d854e88f5cc742a5421a89a0dfce5, type: 2}
+    - {fileID: 11400000, guid: 2d7df81ce2ed9ce44855d4c6563f409a, type: 2}

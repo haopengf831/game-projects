@@ -1,0 +1,30 @@
+﻿Loxodon Framework Log4Net
+Version: 1.2.5
+© 2016, Clark Yang
+=======================================
+
+Thank you for purchasing the plugin!
+I hope you enjoy using the product and that it makes your game development faster and easier.
+If you have a moment,please leave me a review on the Asset Store.
+
+The version is compatible with MacOSX,Windows,Linux iOS and Android etc.
+
+https://www.assetstore.unity3d.com/#!/content/77446
+
+Please email yangpc.china@gmail.com for any help or issues.
+
+UPDATE NOTES
+----------------------------------------
+version 1.2.1
+
+Fixed an error that occurred  when the console is first opened.
+
+version 1.2.0
+
+Added the console for remote logs.
+Added the UnityUdpRemotingAppender.
+Added  the source code of Loxodon.Log.dll and deleted Loxodon.Log.dll.
+Upgraded to log4net 1.2.13.
+
+
+

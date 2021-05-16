@@ -1,0 +1,431 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1da1546528d1cf14697b56602e18e2f6
+  m_SerializeEntries:
+  - m_GUID: 04ba2778372aa134c8ee920c27ed1ee6
+    m_Address: shafa01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 06faab228177e7742be9476c3daa0482
+    m_Address: WomanA
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 08b9f6d3af251bd4db3799c44e66f3a5
+    m_Address: zhiying
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 148d6f7ae97833546aa074cbd645ff30
+    m_Address: tree_dowm
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1987b44d11d038346b90c01b12671936
+    m_Address: guahua05
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e4ef017ad8995c44b71ee440dc20b5f
+    m_Address: tree10
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2681b8df856a00547aad52d6463c7eef
+    m_Address: Original Restaurant
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 31014a2132489364ab485a73995096dc
+    m_Address: TalkUiView
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 32b5d2ac47fbe17499685304de422140
+    m_Address: grass05_01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 378c061907ba755429669c615c0db997
+    m_Address: men02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3f3cae724b315a541b9c35ad6f5e50ed
+    m_Address: ManD
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 43154afe3ff131a40a4ba150d973cb37
+    m_Address: FinishUiView
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 475392068ac67cb4bac55cdde840e94c
+    m_Address: guahua03
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 491a7528e7eaf1746a16310ceb11be3f
+    m_Address: grass07_01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 518effb186e0e4247802c3ae2978cca9
+    m_Address: liangting
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 53a11ea5b2afe8f489b5be2c41fe916d
+    m_Address: ManB
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 53fb3b9899db05744acc26e365d001f2
+    m_Address: gonggaolan
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59a87e00e2f33a744bf90a671a1cb9b1
+    m_Address: anquanchukou
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59b6ec7e869aec5448558774393bc9e0
+    m_Address: daotai
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5b2495b5ea212674d9eeee24743f738d
+    m_Address: flower01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5ef5b3c064d6bb847b623697dabc345f
+    m_Address: guahua06
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 613ffe06916cc3b4bb6dde26f43f73b1
+    m_Address: tree09
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6557373782cf32848b365357910536ac
+    m_Address: diban01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69afa37a9de62c7439704d2a24e177a1
+    m_Address: Restaurant Enviroment
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6ae8e2dd1e744784699269465731dd5d
+    m_Address: Talk3dView
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 723f263b68077a0458261c6ef8332c70
+    m_Address: ManC
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 72a4cc12ddd9037448f5f38c75f92b99
+    m_Address: SetUp
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 78e38466b123cbe479e84547d1ad4c62
+    m_Address: diannao
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7ac9da64abde815469fea28aff5df564
+    m_Address: pingfeng02 (1)
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7b155eeca7f0f904fa732ddd602011cf
+    m_Address: caodi
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 82445043b6736de468c7a48a00895cbe
+    m_Address: grass06_01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b711cf690346994dadf78453e8b5702
+    m_Address: lou01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d3c6623f48933940a03c74375d3c46f
+    m_Address: LoginView
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 918d2d258e78949448ff6b87678d4da2
+    m_Address: grass08_01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 91c9d4cb150c61a4fb45221042ed41e9
+    m_Address: lumian01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9215482faf82cdc4e885ca382fbd643b
+    m_Address: guahua02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9240889a63d0b5e4e95050245b8dfe64
+    m_Address: School Enviroment
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9bee76157b5f2d04ca2a5123b6f6db33
+    m_Address: lumian02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f12af55cda2b7f4aba488dec0b25bec
+    m_Address: Original School
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9fa104c32781a344f85a72ffe7720a75
+    m_Address: Original Library
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a2512b13d653fab4f9de549d84300e2e
+    m_Address: VocabularyUiView
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ad4a39fcfd2e2af45a90e567cb5dc02c
+    m_Address: lou01_boli
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae468ca27f69fde4e959a4aa240ce56d
+    m_Address: guaqiang
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b5af45ed1caf5bc429e3430fb3e156d0
+    m_Address: zhuozi
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba1e5ad0461023146865a89b5aa23b38
+    m_Address: guahua01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bd6e5721c74e93c46b9f9669d350c979
+    m_Address: Library Enviroment
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c97f232d1b1dbb2439c0b0485556be84
+    m_Address: zhuzi03
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d0d58b9ad95b28944bd4b79f812c29fa
+    m_Address: flower02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d299a86037f826b4a88a3447a18cb7df
+    m_Address: fanmaiji
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d5307bd38e8fac44fb49b20316888f91
+    m_Address: shedeng02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9306ab38ba329346a74b96856c39687
+    m_Address: shedeng
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dc0ee9afdd0919e448e761c2604062c3
+    m_Address: ManA
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e79e7061c8fe74c43b771cbf87cf3f9f
+    m_Address: zhuzi02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e94507c4fb390d845b4cb9dace3cbb26
+    m_Address: shafa02
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ea18a25ba3370b44faeb69987dd854b4
+    m_Address: guahua04
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef2df3ca09d61e74c9db992e9aa49cad
+    m_Address: zhuzi01
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f0b5d447c118ba24c8500fc351ff97ec
+    m_Address: zhuzi04
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f30d4aee150eca342a6f69a071a89272
+    m_Address: dimian_tingyuan
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 496ce2a3a30e41347b4b4229fef36ec1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 54eb72699530a47439f61c5569daadea, type: 2}
+    - {fileID: 11400000, guid: f393336dfc7b1f84e9cc27025cfd689a, type: 2}

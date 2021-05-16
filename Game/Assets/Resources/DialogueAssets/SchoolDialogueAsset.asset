@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: SchoolDialogueAsset
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4E0D\u597D\u610F\u601D(I\u2019m sorry)"
+    AudioClip: {fileID: 8300000, guid: 11f1288168fedee4c947202b96bf762b, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u662FAmerican"
+      AudioClip: {fileID: 0}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u997F\u4E86"
+      AudioClip: {fileID: 8300000, guid: 3a293c712d91e9b45b85a46c8bfb5b1b, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u5F88\u5F00\u5FC3"
+      AudioClip: {fileID: 8300000, guid: d4f37bf42da361f4f9fb478ce0bb8262, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6EDA"
+      AudioClip: {fileID: 8300000, guid: d12ea918146983c4d9379dcbc6bf9f5c, type: 3}
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6CA1\u5173\u7CFB"
+      AudioClip: {fileID: 8300000, guid: e750e442550f33a4a961f4d00dbadb6e, type: 3}
+  - Index: 2
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4F60\u597D\uFF0C\u4F60\u662F\u65B0\u6765\u7684\u5916\u56FD\u5B66\u751F\u5417\uFF1F(Are
+      you a new foreign student?)"
+    AudioClip: {fileID: 8300000, guid: 308a037084bac4b4da2e2718ae22d4c9, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 3
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u662F(Yes)"
+    AudioClip: {fileID: 8300000, guid: 666e2441ab9f83d43bd07f3512a172ba, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 4
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4F60\u53EB\u4EC0\u4E48\uFF1F(What is your name?)"
+    AudioClip: {fileID: 8300000, guid: 82c1d6225d1a6304f9b97c7ffb200715, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 5
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u4ECA\u5E7421\u5C81"
+      AudioClip: {fileID: 8300000, guid: a34a4e8af4c5b5b49b747054c5e1183b, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u662F\u7F8E\u56FD\u4EBA "
+      AudioClip: {fileID: 0}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u559C\u6B22\u7BEE\u7403"
+      AudioClip: {fileID: 0}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u6765\u81EAAmerica"
+      AudioClip: {fileID: 8300000, guid: 6dca2054add63e14a893b18ab6f3a094, type: 3}
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6211\u53EBJames"
+      AudioClip: {fileID: 8300000, guid: ddaa2dc3d2e375944bfa647487e5d08f, type: 3}
+  - Index: 6
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4F60\u597DJames\uFF0C\u6211\u53EB\u4F0D\u5179\u3002\u4F60\u662F\u4ECE\u54EA\u513F\u6765\u7684\uFF1F(Hi
+      James, I\u2019m Wuzi. Where are you from?)"
+    AudioClip: {fileID: 8300000, guid: a6508b566a070044e98842fa43158fd5, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 7
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6CA1\u5173\u7CFB"
+      AudioClip: {fileID: 8300000, guid: e750e442550f33a4a961f4d00dbadb6e, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u5F88\u5F00\u5FC3"
+      AudioClip: {fileID: 8300000, guid: d4f37bf42da361f4f9fb478ce0bb8262, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u5F88\u9AD8\u5174\u8BA4\u8BC6\u4F60"
+      AudioClip: {fileID: 8300000, guid: 2c5e93869ed0faf4594f2ec41e37f087, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u997F\u4E86"
+      AudioClip: {fileID: 8300000, guid: 3a293c712d91e9b45b85a46c8bfb5b1b, type: 3}
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6211\u6765\u81EAAmerica"
+      AudioClip: {fileID: 8300000, guid: 6dca2054add63e14a893b18ab6f3a094, type: 3}
+  - Index: 8
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u5F88\u9AD8\u5174\u8BA4\u8BC6\u4F60(Nice to meet you!)"
+    AudioClip: {fileID: 8300000, guid: 1c0949e94e943f14fafa6c65326b89fa, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 9
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u5F88\u9AD8\u5174\u8BA4\u8BC6\u4F60"
+      AudioClip: {fileID: 8300000, guid: 2c5e93869ed0faf4594f2ec41e37f087, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6EDA"
+      AudioClip: {fileID: 8300000, guid: d12ea918146983c4d9379dcbc6bf9f5c, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u997F\u4E86"
+      AudioClip: {fileID: 8300000, guid: 3a293c712d91e9b45b85a46c8bfb5b1b, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u559C\u6B22\u7BEE\u7403"
+      AudioClip: {fileID: 0}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u662F\u7F8E\u56FD\u4EBA"
+      AudioClip: {fileID: 0}
+  - Index: 10
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u6211\u4EEC\u6709\u673A\u4F1A\u4E0B\u6B21\u804A(I have to go right
+      now, talk to you next time)"
+    AudioClip: {fileID: 8300000, guid: 52a34044e3cc74e4185a9a6521217d49, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 11
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u597D\uFF0C\u6211\u521A\u6765\u8FD9\u513F\uFF0C\u4EBA\u751F\u5730\u4E0D\u719F\u3002\u6211\u89C9\u5F97\u6211\u5728\u672A\u6765\u9700\u8981\u4F60\u7684\u5E2E\u52A9\uFF0C\u6211\u60F3\u8DDF\u4F60\u4FDD\u6301\u8054\u7CFB(Sure,
+      I just came here and I am unfamiliar with the campus. I think I need your help
+      in the future, so I want to keep in touch with you)"
+    AudioClip: {fileID: 8300000, guid: 142cbf93ffcf68b4da050315cc41a4b5, type: 3}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u8BF7\u95EE\u4F60\u7684\u7535\u8BDD\u53F7\u7801\u662F\u591A\u5C11\uFF1F"
+      AudioClip: {fileID: 8300000, guid: 30e6fff36a9329d4e9d8a306db5cd4ef, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u53EB\u4EC0\u4E48\uFF1F"
+      AudioClip: {fileID: 8300000, guid: cac21f81b966e214b907eb924ebbf4a3, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u4ECA\u5E74\u591A\u5927\u4E86\uFF1F"
+      AudioClip: {fileID: 8300000, guid: 924a7ac1b96474440bb5f973164f5d91, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u662F\u4ECE\u54EA\u513F\u6765\u7684?"
+      AudioClip: {fileID: 8300000, guid: 17b36465f164bbd48aeeb22c0a778e6b, type: 3}
+  - Index: 12
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u6CA1\u95EE\u9898\uFF0C\u6211\u7684\u7535\u8BDD\u53F7\u7801\u662F\uFF1A13543964396
+      (No problem. My phone number is 13543964396.)"
+    AudioClip: {fileID: 8300000, guid: b3373a6dec436f541bf1f2ca9f483215, type: 3}
+    IsOption: 0
+    Options: []

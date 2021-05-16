@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71b5a3b5b8bc78439dbb1d89e63ecd2, type: 3}
+  m_Name: LibraryVocabularyAsset
+  m_EditorClassIdentifier: 
+  Words:
+  - ChineseWord: "\u4E00"
+    EnglishWord: one
+    AudioClip: {fileID: 8300000, guid: fe03a350ed8bfee4fa9082808384740e, type: 3}
+  - ChineseWord: "\u4E8C"
+    EnglishWord: two
+    AudioClip: {fileID: 8300000, guid: b1d883473d110284d9c42f8cc196141b, type: 3}
+  - ChineseWord: "\u4E09"
+    EnglishWord: three
+    AudioClip: {fileID: 8300000, guid: b2f193d05be37cd49b2d148ba04a9886, type: 3}
+  - ChineseWord: "\u56DB"
+    EnglishWord: four
+    AudioClip: {fileID: 8300000, guid: f6a07d67f6263bf4a961450f3ae57e53, type: 3}
+  - ChineseWord: "\u4E94"
+    EnglishWord: five
+    AudioClip: {fileID: 8300000, guid: ad48f7a450cc2124f9f3a6ffa2ecb2ef, type: 3}
+  - ChineseWord: "\u516D"
+    EnglishWord: six
+    AudioClip: {fileID: 8300000, guid: 8e0a98e27fc1d3541b3d6eaa1022991f, type: 3}
+  - ChineseWord: "\u4E03"
+    EnglishWord: seven
+    AudioClip: {fileID: 8300000, guid: 5623e2f33e529c546a47074367fdea44, type: 3}
+  - ChineseWord: "\u516B"
+    EnglishWord: eight
+    AudioClip: {fileID: 8300000, guid: 8275fac4377fc324798f5f221eb32267, type: 3}
+  - ChineseWord: "\u4E5D"
+    EnglishWord: nine
+    AudioClip: {fileID: 8300000, guid: 4267344a46edd154490b8df4705b275b, type: 3}
+  - ChineseWord: "\u5341"
+    EnglishWord: ten
+    AudioClip: {fileID: 8300000, guid: a7a827eb7dfcd5f48b28e57e98a06415, type: 3}
+  - ChineseWord: "\u767E"
+    EnglishWord: hundred
+    AudioClip: {fileID: 8300000, guid: 8e1334ccc1e754b4382798bb5192a35f, type: 3}
+  - ChineseWord: "\u65E9\u4E0A\u597D"
+    EnglishWord: Good morning
+    AudioClip: {fileID: 8300000, guid: f5e1118c8d7a4604b890d7e1e0a553bc, type: 3}
+  - ChineseWord: "\u665A\u4E0A\u597D"
+    EnglishWord: Good evening
+    AudioClip: {fileID: 8300000, guid: 5f67698666f7022489ae9f333f4f52f8, type: 3}
+  - ChineseWord: "\u4E0B\u5348\u597D"
+    EnglishWord: Good afternoon
+    AudioClip: {fileID: 8300000, guid: 6d1ce2688afda6741bb856276f8663ef, type: 3}
+  - ChineseWord: "\u8C22\u8C22"
+    EnglishWord: Thank you
+    AudioClip: {fileID: 8300000, guid: b2dfaba999af01c40bac105d585b5c9e, type: 3}
+  - ChineseWord: "\u8FD9\u4E2A"
+    EnglishWord: This
+    AudioClip: {fileID: 8300000, guid: 65dc06da01366b744a25a0ef352d240b, type: 3}
+  - ChineseWord: "\u90A3\u4E2A"
+    EnglishWord: That
+    AudioClip: {fileID: 8300000, guid: d9f603d33eae24e49aa44b4a9e231ee1, type: 3}
+  - ChineseWord: "\u591A\u5C11\u94B1?"
+    EnglishWord: 'How much? '
+    AudioClip: {fileID: 8300000, guid: 303c61d7e2b84174ea4d8469cb699f5b, type: 3}
+  - ChineseWord: "\u8FD9\u4E2A\u591A\u5C11\u94B1?"
+    EnglishWord: 'How much is this? '
+    AudioClip: {fileID: 8300000, guid: 7f433693a6764d04da60c8199b0e0363, type: 3}
+  - ChineseWord: "\u90A3\u4E2A\u591A\u5C11\u94B1?"
+    EnglishWord: How much is that?
+    AudioClip: {fileID: 8300000, guid: e843221a34066d943aa579f250472bb2, type: 3}
+  - ChineseWord: "\u4E66\u5E97"
+    EnglishWord: bookstore
+    AudioClip: {fileID: 8300000, guid: 7d6a8b15715c809419b2a30220a53377, type: 3}
+  - ChineseWord: "XXX\u5728\u54EA\u91CC?"
+    EnglishWord: Where is XXX?
+    AudioClip: {fileID: 8300000, guid: 8bf4a8b7e02440b4da36146be141c08f, type: 3}
+  - ChineseWord: "\u4E66\u5E97\u5728\u54EA\u91CC?"
+    EnglishWord: Where is the bookstore?
+    AudioClip: {fileID: 8300000, guid: 36225c2f0a261404f8650b2a2bd8ee54, type: 3}
+  - ChineseWord: "\u518D\u89C1"
+    EnglishWord: Bye
+    AudioClip: {fileID: 8300000, guid: 4f35de949dbddf0499271d4f2b9a469b, type: 3}
+  - ChineseWord: "\u60F3"
+    EnglishWord: want
+    AudioClip: {fileID: 8300000, guid: 59cddc2f083696f4f84457f3895ea432, type: 3}
+  - ChineseWord: "\u6211\u60F3\u4E70\u8FD9\u4E2A"
+    EnglishWord: I want to buy this one
+    AudioClip: {fileID: 8300000, guid: ff6610b373320eb4995398894e5a91c4, type: 3}

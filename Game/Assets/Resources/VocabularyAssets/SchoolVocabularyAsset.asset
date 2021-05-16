@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71b5a3b5b8bc78439dbb1d89e63ecd2, type: 3}
+  m_Name: SchoolVocabularyAsset
+  m_EditorClassIdentifier: 
+  Words:
+  - ChineseWord: "\u6211"
+    EnglishWord: 'I '
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u4F60"
+    EnglishWord: you
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u662F"
+    EnglishWord: Yes
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u4E0D\u662F"
+    EnglishWord: No
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u6211\u53EBJames"
+    EnglishWord: My name is James
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u6211\u662FAmerican"
+    EnglishWord: I am American
+    AudioClip: {fileID: 0}
+  - ChineseWord: "\u6CA1\u5173\u7CFB"
+    EnglishWord: That's alright
+    AudioClip: {fileID: 8300000, guid: f2391545d84e7c248b645a2c28a1f26a, type: 3}
+  - ChineseWord: "\u6211\u6765\u81EAAmerica"
+    EnglishWord: I am from America
+    AudioClip: {fileID: 8300000, guid: ea502f44491ce7b4ca2e213ece115bc1, type: 3}
+  - ChineseWord: "\u6211\u4ECA\u5E7420\u5C81"
+    EnglishWord: ' I am 20 years old'
+    AudioClip: {fileID: 8300000, guid: d6f828389b2337e438567f182812443a, type: 3}
+  - ChineseWord: "\u6211\u5F88\u5F00\u5FC3"
+    EnglishWord: I am happy
+    AudioClip: {fileID: 8300000, guid: 95fcc4d2bf023d14fa09f91de97587b0, type: 3}
+  - ChineseWord: "\u6211\u997F\u4E86"
+    EnglishWord: I am hungry
+    AudioClip: {fileID: 8300000, guid: 5360d989ac64cef44a85fadca6a43ea6, type: 3}
+  - ChineseWord: "\u6211\u559C\u6B22\u6253Basketball"
+    EnglishWord: I like playing basketball
+    AudioClip: {fileID: 8300000, guid: b1d42fefa6789e3499ced458746b3ec6, type: 3}
+  - ChineseWord: "\u5F88\u9AD8\u5174\u8BA4\u8BC6\u4F60"
+    EnglishWord: Nice to meet you
+    AudioClip: {fileID: 8300000, guid: 64114981f90825245a78b77bc5409492, type: 3}
+  - ChineseWord: "\u8BF7\u95EE\u4F60\u7684\u7535\u8BDD\u53F7\u7801\u662F\u591A\u5C11\uFF1F"
+    EnglishWord: Can I have your phone number?
+    AudioClip: {fileID: 8300000, guid: 85c110e6c62795f4d8984e14b7b7b15c, type: 3}
+  - ChineseWord: "\u4F60\u53EB\u4EC0\u4E48\uFF1F"
+    EnglishWord: 'What is your name? '
+    AudioClip: {fileID: 8300000, guid: 82c1d6225d1a6304f9b97c7ffb200715, type: 3}
+  - ChineseWord: "\u4F60\u4ECA\u5E74\u591A\u5927\u4E86\uFF1F"
+    EnglishWord: How old are you?
+    AudioClip: {fileID: 8300000, guid: 91f7d282cdfa3cb4faace4af618c07ec, type: 3}
+  - ChineseWord: "\u4F60\u662F\u4ECE\u54EA\u513F\u6765\u7684?"
+    EnglishWord: Where are you from?
+    AudioClip: {fileID: 8300000, guid: 5c79aee1973be67469ab71131d37a648, type: 3}
+  - ChineseWord: "\u6EDA"
+    EnglishWord: Fuck off
+    AudioClip: {fileID: 8300000, guid: d12ea918146983c4d9379dcbc6bf9f5c, type: 3}

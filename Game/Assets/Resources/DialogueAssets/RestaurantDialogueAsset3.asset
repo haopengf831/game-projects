@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: RestaurantDialogueAsset3
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "James\uFF0C\u4F60\u89C9\u5F97\u8FD9\u5BB6\u5E97\u5473\u9053\u5982\u4F55\uFF1F\uFF08How
+      do you like the restaurant?\uFF09"
+    AudioClip: {fileID: 8300000, guid: 939f5cde09140604ca6e73b5e19be4d1, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u771F\u597D\u5403"
+      AudioClip: {fileID: 8300000, guid: 076e03f18cc28434d8c46731f2892b83, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u5403\u9971\u4E86"
+      AudioClip: {fileID: 8300000, guid: e5e952fe52976384cafd76f17a9f6d5a, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8C22\u8C22"
+      AudioClip: {fileID: 8300000, guid: 30ac287a1a1f8044a9a084d7b2291321, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u957F\u5F97\u771F\u597D\u770B"
+      AudioClip: {fileID: 8300000, guid: 098945ee8c72f5a4abac97973b2af04c, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u662F\u7F8E\u56FD\u4EBA"
+      AudioClip: {fileID: 0}
+  - Index: 2
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4ECA\u5929\u6211\u751F\u65E5\uFF0C\u6211\u53BB\u4E70\u5355"
+    AudioClip: {fileID: 8300000, guid: b362c44663ebce343b9f0c5270b9053e, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 3
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u8C22\u8C22"
+      AudioClip: {fileID: 8300000, guid: 30ac287a1a1f8044a9a084d7b2291321, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u771F\u597D\u5403"
+      AudioClip: {fileID: 8300000, guid: e1546bf26b9fd974fa0b706ddb28e244, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u771F\u96BE\u5403"
+      AudioClip: {fileID: 8300000, guid: 076e03f18cc28434d8c46731f2892b83, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u5403\u9971\u4E86"
+      AudioClip: {fileID: 8300000, guid: e5e952fe52976384cafd76f17a9f6d5a, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u997F\u4E86"
+      AudioClip: {fileID: 8300000, guid: b8bc30359049de74ebf46e4e70120e2e, type: 3}

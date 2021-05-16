@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: LibraryDialogueAsset2
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4F60\u597D\uFF0C\u8BF7\u95EE\u4F60\u9700\u8981\u4EC0\u4E48\uFF1F(Hi
+      sir, can I help you?)"
+    AudioClip: {fileID: 8300000, guid: d120b1d0959590547870f13dc532d771, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u6211\u60F3\u4E70\u4E00\u652F\u94A2\u7B14\uFF0C\u8BA9\u6211\u770B\u770B\u6709\u6CA1\u6709\u5408\u9002\u7684(I
+      want to buy a pen. Let me see\u2026) \u8FD9\u65F6James\u6307\u4E86\u6307\u8FDC\u5904\u8001\u677F\u80CC\u540E\u67B6\u5B50\u91CC\u7684\u4E00\u652F\u7B14"
+    AudioClip: {fileID: 8300000, guid: f0110187802180b4585be78ffb6604d7, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 2
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u90A3\u4E2A\u591A\u5C11\u94B1?"
+      AudioClip: {fileID: 8300000, guid: eab3085bce30f844f993684b47baf918, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4E0B\u5348\u597D"
+      AudioClip: {fileID: 8300000, guid: cf042b62c0d7a9b4fbe636d4f4c58b03, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8BF7\u95EE\u4F60\u7684\u7535\u8BDD\u53F7\u7801\u662F\u4EC0\u4E48\uFF1F"
+      AudioClip: {fileID: 8300000, guid: c4d911338845666449f6a7affb753041, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u60F3\u4E70\u4E66\u5E97"
+      AudioClip: {fileID: 8300000, guid: 0675b5e566358e44e823f79d8a76a8db, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8C22\u8C22"
+      AudioClip: {fileID: 8300000, guid: cf32b509ed597094a98b3ff7b7d00bb2, type: 3}
+  - Index: 3
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u8FD9\u4E2A\u7B1460\u5757\u94B1(This pen is 60 yuan)"
+    AudioClip: {fileID: 8300000, guid: 0b864ffbda6d8d846aedf12acfa1c73c, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 4
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u592A\u8D35\u4E86\uFF0C\u6211\u8EAB\u4E0A\u6CA1\u6709\u8FD9\u4E48\u591A\u94B1(Too
+      expensive, I don't have so much money) "
+    AudioClip: {fileID: 8300000, guid: cdd98a173580a5444ae1cd0348b7ea5a, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 5
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u8FD9\u4E2A\u591A\u5C11\u94B1?"
+      AudioClip: {fileID: 8300000, guid: 51d21fe2b3294d54781ce1de2c214990, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u90A3\u4E2A\u591A\u5C11\u94B1?"
+      AudioClip: {fileID: 8300000, guid: eab3085bce30f844f993684b47baf918, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u6765\u81EA\u7F8E\u56FD"
+      AudioClip: {fileID: 8300000, guid: 93acdce6c49f29a4284453bde4853082, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4E8C\u767E\u4E94\u5341"
+      AudioClip: {fileID: 8300000, guid: ed083c71cd25678419930131f56de6fa, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8FD9\u7B14\u597D\u4E11"
+      AudioClip: {fileID: 8300000, guid: 19cc5111fdd144a46a0b5b87cb37515e, type: 3}
+  - Index: 6
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u8FD9\u4E2A\u7B1445\u5757\u94B1(This pen is 45 yuan) "
+    AudioClip: {fileID: 8300000, guid: 388bee7db06b1c241914927f173edd93, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 7
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: "\u6211\u89C9\u5F97\u8FD9\u652F\u7B14\u5F88\u597D\u770B\u5E76\u4E14\u4E5F\u4E0D\u8D35(I
+      think this pen is nice and not expensive)"
+    AudioClip: {fileID: 8300000, guid: c59f4bc5e434fcb42b574c2a00507616, type: 3}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u6211\u60F3\u4E70\u8FD9\u4E2A"
+      AudioClip: {fileID: 8300000, guid: 89096b7b31da7c34e8e1c757f330db87, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u518D\u89C1"
+      AudioClip: {fileID: 0}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u8FD9\u4E2A\u591A\u5C11\u94B1?"
+      AudioClip: {fileID: 8300000, guid: 51d21fe2b3294d54781ce1de2c214990, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u65E9\u4E0A\u597D"
+      AudioClip: {fileID: 8300000, guid: f5e1118c8d7a4604b890d7e1e0a553bc, type: 3}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f397e689f85e68d48a5c901007aa36b2, type: 3}
+  m_Name: RestaurantDialogueAsset1
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - Index: 0
+    IsSelf: 0
+    IsThirdPerson: 0
+    Content: "\u4ECA\u5929\u662F\u6211\u751F\u65E5\uFF0CJames\uFF0C\u6211\u9080\u8BF7\u4F60\u53BB\u9910\u5385\u5403\u996D\uFF01\uFF08Today
+      is my birthday, I invite you to go to a restaurant!)"
+    AudioClip: {fileID: 8300000, guid: e5b94f87426e18f4888182efbf93752a, type: 3}
+    IsOption: 0
+    Options: []
+  - Index: 1
+    IsSelf: 1
+    IsThirdPerson: 0
+    Content: 
+    AudioClip: {fileID: 0}
+    IsOption: 1
+    Options:
+    - IsCorrect: 1
+      Index: 0
+      Content: "\u751F\u65E5\u5FEB\u4E50\uFF01"
+      AudioClip: {fileID: 8300000, guid: 8e786653b6c33824fb78aed9cb41a8a8, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u4F60\u597D"
+      AudioClip: {fileID: 8300000, guid: 71314f5f09072404e90c9276c7b0188a, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u6765\u81EA\u7F8E\u56FD"
+      AudioClip: {fileID: 8300000, guid: 67a08dc7e26f9ea478272f39bfb9d572, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u6211\u559C\u6B22\u7BEE\u7403"
+      AudioClip: {fileID: 8300000, guid: 2e8aaf6dcea2cdd4794c9a610078b905, type: 3}
+    - IsCorrect: 0
+      Index: 0
+      Content: "\u518D\u89C1"
+      AudioClip: {fileID: 8300000, guid: 67de481aa166f144f9a4017546bef5b3, type: 3}

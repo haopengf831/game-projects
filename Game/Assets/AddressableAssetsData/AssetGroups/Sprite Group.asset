@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprite Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprite Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6ce81848e610a40418df7a5212f07706
+  m_SerializeEntries:
+  - m_GUID: 2cde4c5d62e7df74eb0fbe70baa97420
+    m_Address: Loading
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 56380c2b8be4e2140b0fcec2e1a50c52
+    m_Address: Bg
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 97571472941733f4fa3bb2c4d45cc344
+    m_Address: ad67887ae09f5bf6333ce253ed1dc85
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    m_mainAssetType: 
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 496ce2a3a30e41347b4b4229fef36ec1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cbd773551a95f754eaa31b66ba176df9, type: 2}
+    - {fileID: 11400000, guid: 5fbe809aec3c36543a01a6dffd9e9902, type: 2}
